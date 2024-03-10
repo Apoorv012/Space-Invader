@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"getCurrentFrame"
+			],
+			[
+				"s",
+				"struct\tstruct"
+			],
+			[
+				"fram",
+				"frameTime"
+			],
+			[
+				"frame",
+				"frameDelay"
+			],
+			[
+				"fr",
+				"frameTime"
+			],
+			[
+				"frm",
+				"frameStart"
+			],
+			[
+				"fra",
+				"frameStart"
+			],
+			[
+				"vecto",
+				"Vector2f"
+			],
+			[
+				"enti",
+				"entities"
+			],
+			[
+				"p_",
+				"p_x"
+			],
+			[
+				"Rende",
+				"RenderWindow"
+			],
+			[
+				"rene",
+				"renderer"
+			],
+			[
+				"p",
+				"p_h"
+			],
+			[
+				"get",
+				"getSales"
+			],
+			[
+				"St",
+				"string"
+			],
+			[
+				"prin",
+				"printMyInt"
+			],
+			[
+				"group",
+				"group3Ans"
+			],
+			[
+				"grou",
+				"group3Ans"
+			],
+			[
+				"De",
+				"DemoClass"
+			],
+			[
+				"ma",
+				"marks"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"_",
+				"_imaginary"
+			],
+			[
+				"va",
+				"va_arg"
+			],
+			[
+				"wi",
+				"withdraw"
+			],
+			[
+				"de",
+				"deposit"
+			],
+			[
+				"main",
+				"mainMax"
+			],
+			[
+				"cur",
+				"currMax"
+			],
+			[
+				"cu",
+				"currMax"
+			],
+			[
+				"check",
+				"checkForX"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"print",
+				"printAllNum"
+			],
+			[
+				"si",
+				"sizeSmall"
+			],
+			[
+				"siz",
+				"sizeSmall"
+			],
+			[
+				"size",
+				"sizeSort"
+			],
+			[
+				"ne",
+				"nextPos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/entity.cpp",
+			"settings":
+			{
+				"buffer_size": 457,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/dev/Space Invader",
+		"/D/dev/Space Invader/src"
+	],
+	"file_history":
+	[
+		"/D/dev/Space Invader/Space Invader.sublime-project",
+		"/D/dev/Space Invader/src/entity.cpp",
+		"/D/dev/Space Invader/include/Entity.hpp",
+		"/D/dev/Space Invader/src/renderwindow.cpp",
+		"/D/dev/Space Invader/src/main.cpp",
+		"/D/dev/Space Invader/include/RenderWindow.hpp",
+		"/D/dev/Space Invader/include/Math.hpp",
+		"/D/dev/Space Invader/src/math.cpp",
+		"/D/dev/Space Invader/include/Utils.hpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/Space Invader/Space Invader.sublime-project",
+		"/C/Users/apoorv012/OneDrive/Desktop/Space Invader/src/main.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/Space Invader/src/m2.cpp",
+		"/C/Users/apoorv012/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/apoorv012/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/apoorv012/AppData/Roaming/Sublime Text/Packages/Default/exec.py",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/seha_2.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/seha.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/task8.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/code_guerra_c.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/minsquaresum.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/minsquaresum_dp.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/graphs.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/sieve.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/10.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/n.c",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/12.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/outputf.in",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/inputf.in",
+		"/D/input",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/2023.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/1.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/Error.txt",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/code_guerra_temp_b.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/code_guerra_d.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/code_guerra.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/test.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/maths_quiz.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/black_magic_trap.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/3.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/sdf_t3_5.c",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/sdf_t3_5",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/1913C.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/1913B.cpp",
+		"/C/Users/apoorv012/OneDrive/Desktop/code/2.cpp",
+		"/C/Users/apoorv012/AppData/Roaming/Sublime Text/Packages/User/test",
+		"/C/Users/apoorv012/AppData/Roaming/Sublime Text/Packages/User/c++14.sublime-build",
+		"/C/Users/apoorv012/AppData/Roaming/Sublime Text/Packages/User/c++14"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"240",
+			"2",
+			"290",
+			"580",
+			"100",
+			";",
+			" * 4",
+			"grassTexture",
+			"_entity",
+			"128",
+			"32",
+			"double",
+			"32",
+			"src",
+			");\n",
+			"SDL_WINPOS_UNDEFINED"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/entity.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.400001526
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"project": "Space Invader.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
